@@ -1,0 +1,19 @@
+{
+    "name": "Test Image",
+    "description": "This is the Test Image for Soulbound NFT",
+    "image": "https://magenta-junior-capybara-94.mypinata.cloud/ipfs/QmSuAbFf9D3SbCdCYJEJbwqYoX6YoPqgeZuerNydMDmMp5",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Red"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://magenta-junior-capybara-94.mypinata.cloud/ipfs/QmSuAbFf9D3SbCdCYJEJbwqYoX6YoPqgeZuerNydMDmMp5"
+            }
+        ]
+    }
+}
